@@ -2,6 +2,8 @@
 name = "nine-spec"
 version = "0.0.0"
 authors = ["Casey Rodarmor <casey@rodarmor.com>"]
+description = "9p Specification Parser"
+license = "WTFPL"
 
 [dependencies]
 brev = "0.1.4"
